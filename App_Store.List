@@ -1,0 +1,5 @@
+# > App Store List
+user-agent, com.apple.appstored*, Apple_CDN
+host-suffix, mzstatic.com, Apple_CDN
+host, iosapps.itunes.apple.com, Apple_CDN
+host, osxapps.itunes.apple.com, Apple_CDN
