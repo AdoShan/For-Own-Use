@@ -1,5 +1,0 @@
-# > App Store List
-user-agent, com.apple.appstored*
-host-suffix, mzstatic.com
-host, iosapps.itunes.apple.com
-host, osxapps.itunes.apple.com
