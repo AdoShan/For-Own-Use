@@ -70,6 +70,9 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 
+# Apple Health
+DOMAIN-SUFFIX,health.apple.com
+
 # (Region-Restricted Access Denied)
 # ---(Apple)---
 # > Apple URL Shortener
