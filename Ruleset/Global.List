@@ -435,6 +435,7 @@ DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,mangakakalot.com
 DOMAIN-SUFFIX,shopeemobile.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
+DOMAIN-SUFFIX,v2rayssr.com
 
 # (Network Jitter)
 # > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
