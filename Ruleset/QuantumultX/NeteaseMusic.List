@@ -1,5 +1,5 @@
 # > Netease Music
-DOMAIN,apm.music.163.com,NeteaseMusic
+#DOMAIN,apm.music.163.com,NeteaseMusic
 DOMAIN,apm3.music.163.com
 DOMAIN,interface.music.163.com
 DOMAIN,interface3.music.163.com
