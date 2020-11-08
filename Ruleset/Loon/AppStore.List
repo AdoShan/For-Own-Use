@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,ppq.apple.com // Enterprise App validation
+
+#Pxx-Buy
+USER-AGENT,iTunes stored*
+DOMAIN-KEYWORD,-buy.itunes.apple.com
