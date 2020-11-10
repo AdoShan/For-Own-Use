@@ -1,3 +1,6 @@
+##Steam价格查询脚本需要
+DOMAIN,steamdb.info
+
 #解决微信表情包无法加载
 IP-CIDR,182.254.116.0/24
 
