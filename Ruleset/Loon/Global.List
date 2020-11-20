@@ -1,5 +1,6 @@
 # > Proxy
 DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikimedia.org
 # (DNS Cache Pollution)
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
