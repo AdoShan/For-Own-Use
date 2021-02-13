@@ -1,3 +1,6 @@
+# 绕过企业证书到期
+DOMAIN,ocsp.apple.com,Reject // 证书过期
+
 # Find My
 DOMAIN,fmfmobile.icloud.com
 DOMAIN,fmipmobile.icloud.com
