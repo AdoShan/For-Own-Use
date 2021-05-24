@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,skyeysnow.com
 #HDDolby 2021年5月21日
 DOMAIN-SUFFIX,hddolby.com
+#家园
+DOMAIN-SUFFIX,hdhome.org
+
 
 # > 未注册
 #馒头
@@ -31,8 +34,6 @@ DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,hdchina.org
 #SSD
 DOMAIN-SUFFIX,springsunday.net
-#家园
-DOMAIN-SUFFIX,hdhome.org
 #铂金家
 DOMAIN-SUFFIX,pthome.net
 #南洋
