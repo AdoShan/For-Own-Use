@@ -1,17 +1,17 @@
 #https://github.com/787a68/Rules/blob/master/QuantumultX/Filter/Global.txt
 
-#Airport
+# --> Airport
 DOMAIN-SUFFIX,wangzi.uk
 DOMAIN-SUFFIX,lei-su.com
 DOMAIN-SUFFIX,manage.yunjiasu.me
 DOMAIN-SUFFIX,blogtoday.xyz
 DOMAIN-SUFFIX,gayv.gay
 
-# > Proxy
+# -> Proxy
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org
 # (DNS Cache Pollution)
-# > Facebook
+# -> Facebook
 DOMAIN-SUFFIX, cdninstagram.com
 DOMAIN-SUFFIX, fb.com
 DOMAIN-SUFFIX, fb.me
@@ -37,7 +37,7 @@ IP-CIDR, 54.162.243.80/32
 IP-CIDR, 54.173.34.141/32
 IP-CIDR, 54.235.23.242/32
 IP-CIDR, 169.45.248.118/32
-# > Twitter
+# -> Twitter
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,t.co
@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vine.co
-# > Line
+# -> Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
@@ -55,12 +55,12 @@ IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
-# > Akamai
+# -> Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-# > Amazon CloudFront
+# -> Amazon CloudFront
 DOMAIN,d3c33hcgiwev3.cloudfront.net
-# > Others
+# -> Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
@@ -438,7 +438,7 @@ DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
 
 # (IP Blackhole)
-# > Facebook
+# -> Facebook
 DOMAIN-SUFFIX,facebook.br
 DOMAIN-SUFFIX,facebook.design
 DOMAIN-SUFFIX,facebook.hu
@@ -446,14 +446,14 @@ DOMAIN-SUFFIX,facebook.in
 DOMAIN-SUFFIX,facebook.nl
 DOMAIN-SUFFIX,facebook.se
 DOMAIN-SUFFIX,facebookmail.com
-# > Others
+# -> Others
 DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,twitter.jp
 
 # (Region-Restricted Access Denied)
-# > Others
+# -> Others
 DOMAIN-SUFFIX, apartmentratings.com
 DOMAIN-SUFFIX, apartments.com
 DOMAIN-SUFFIX, bankmobilevibe.com
@@ -508,7 +508,7 @@ URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 DOMAIN-SUFFIX,v2rayssr.com
 
 # (Network Jitter)
-# > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
+# -> Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
 DOMAIN-KEYWORD,buy.itunes.apple.com
 DOMAIN-SUFFIX,cloudcone.com.cn
 # DOMAIN-SUFFIX,evernote.com
