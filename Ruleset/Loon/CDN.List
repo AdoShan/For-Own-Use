@@ -15,9 +15,11 @@ DOMAIN, appldnld.apple.com
 DOMAIN, swcdn.apple.com
 DOMAIN, apptrailers.itunes.apple.com
 DOMAIN, updates-http.cdn-apple.com
+
+# Map导致无法正常切换Tomtom地图,以致于无法正常使用News
 # -> Map
-DOMAIN-SUFFIX, ls.apple.com
-DOMAIN, gs-loc-cn.apple.com
+#DOMAIN-SUFFIX, ls.apple.com
+#DOMAIN, gs-loc-cn.apple.com
 
 # -> Epic
 DOMAIN-KEYWORD, epicgames-download
