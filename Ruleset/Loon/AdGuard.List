@@ -622,12 +622,8 @@ DOMAIN-SUFFIX,go.10086.cn
 DOMAIN-SUFFIX,hivedata.cc
 DOMAIN-SUFFIX,navi.gd.chinamobile.com
 
-
-
-
-
-
-
+# -> 补充来自eHop1
+#https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt
 # -> Internet Service Providers Hijacking 运营商劫持
 DOMAIN-SUFFIX, 17gouwuba.com
 DOMAIN-SUFFIX, 186078.com
