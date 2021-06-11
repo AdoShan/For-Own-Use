@@ -1,13 +1,6 @@
 #https://github.com/787a68/Rules/blob/master/QuantumultX/Filter/Global.txt
 
-# --> Airport
-DOMAIN-SUFFIX,wangzi.uk
-DOMAIN-SUFFIX,lei-su.com
-DOMAIN-SUFFIX,manage.yunjiasu.me
-DOMAIN-SUFFIX,blogtoday.xyz
-DOMAIN-SUFFIX,gayv.gay
-
-# -> Proxy
+# -> WiKi
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org
 # (DNS Cache Pollution)
