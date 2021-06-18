@@ -1,7 +1,7 @@
-# 游戏模式（⚠️所用节点需开启 UDP 转发支持）
+# -->> 游戏模式（⚠️所用节点需开启 UDP 转发支持）
 PROTOCOL,UDP
 
-# -> Steam
+# -->> Steam
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamgames.com
@@ -17,26 +17,26 @@ DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 
-# -> Epic
+# -->> Epic
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-KEYWORD,epic
 
-# -> Uplayer
+# -->> Uplayer
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-KEYWORD,ubisoft
 
-# -> RockStart
+# -->> RockStart
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-KEYWORD,rockstar
 
-# -> EA
+# -->> EA
 DOMAIN-SUFFIX,ea.com
 
-# -> Origin
+# -->> Origin
 DOMAIN-SUFFIX,origin.com
 DOMAIN-KEYWORD,origin
 
-# -> Sony
+# -->> Sony
 # 来源：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 # 内容：Sony
 # 数量：5条
@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
-# -> GOG
+# -->> GOG
 DOMAIN-SUFFIX,gog.com
 
 

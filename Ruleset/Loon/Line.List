@@ -1,6 +1,6 @@
 #https://github.com/787a68/Rules/blob/master/QuantumultX/Filter/Global.txt
 #Line 72
-# > Line
+# -->> Line
 DOMAIN-SUFFIX, line.me
 DOMAIN-SUFFIX, line-apps.com
 DOMAIN-SUFFIX, line-scdn.net

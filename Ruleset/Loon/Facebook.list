@@ -1,5 +1,5 @@
-#https://github.com/787a68/Rules/blob/master/QuantumultX/Filter/Global.txt
-# Line 22
+# -->> https://github.com/787a68/Rules/blob/master/QuantumultX/Filter/Global.txt
+# -->> Line 22
 DOMAIN-SUFFIX, cdninstagram.com
 DOMAIN-SUFFIX, fb.com
 DOMAIN-SUFFIX, fb.me
