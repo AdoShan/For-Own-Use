@@ -23,7 +23,7 @@ DOMAIN, updates-http.cdn-apple.com
 
 # -->> Epic
 DOMAIN-KEYWORD, epicgames-download
-download.epicgames.com
+DOMAIN-KEYWORD, download.epicgames.com
 
 # -->> Office
 # -->> 不确定
