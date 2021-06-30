@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,fastston.org
-DOMAIN-KEYWORD,wiki
+#//DOMAIN-KEYWORD,wiki
 # (DNS Cache Pollution)
 # -->> Facebook
 DOMAIN-SUFFIX, cdninstagram.com
