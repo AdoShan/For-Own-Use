@@ -16,31 +16,31 @@ DOMAIN-SUFFIX,fastston.org
 
 # (DNS Cache Pollution)
 # -->> Facebook
-DOMAIN-SUFFIX, cdninstagram.com
-DOMAIN-SUFFIX, fb.com
-DOMAIN-SUFFIX, fb.me
-DOMAIN-SUFFIX, fbaddins.com
-DOMAIN-SUFFIX, fbcdn.net
-DOMAIN-SUFFIX, fbsbx.com
-DOMAIN-SUFFIX, fbworkmail.com
-DOMAIN-SUFFIX, instagram.com
-DOMAIN-SUFFIX, m.me
-DOMAIN-SUFFIX, messenger.com
-DOMAIN-SUFFIX, oculus.com
-DOMAIN-SUFFIX, oculuscdn.com
-DOMAIN-SUFFIX, rocksdb.org
-DOMAIN-SUFFIX, whatsapp.com
-DOMAIN-SUFFIX, whatsapp.net
-DOMAIN-KEYWORD, facebook
-IP-CIDR, 3.123.36.126/32
-IP-CIDR, 35.157.215.84/32
-IP-CIDR, 35.157.217.255/32
-IP-CIDR, 52.58.209.134/32
-IP-CIDR, 54.93.124.31/32
-IP-CIDR, 54.162.243.80/32
-IP-CIDR, 54.173.34.141/32
-IP-CIDR, 54.235.23.242/32
-IP-CIDR, 169.45.248.118/32
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,facebook
+IP-CIDR,3.123.36.126/32
+IP-CIDR,35.157.215.84/32
+IP-CIDR,35.157.217.255/32
+IP-CIDR,52.58.209.134/32
+IP-CIDR,54.93.124.31/32
+IP-CIDR,54.162.243.80/32
+IP-CIDR,54.173.34.141/32
+IP-CIDR,54.235.23.242/32
+IP-CIDR,169.45.248.118/32
 
 # -->> Twitter
 DOMAIN-SUFFIX,pscp.tv
@@ -428,11 +428,11 @@ DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zoom.us
-DOMAIN-KEYWORD, github
-DOMAIN-KEYWORD, jav
-DOMAIN-KEYWORD, pinterest
-DOMAIN-KEYWORD, porn
-DOMAIN-KEYWORD, wikileaks
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,jav
+DOMAIN-KEYWORD,pinterest
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,wikileaks
 
 DOMAIN,cc.tvbs.com.tw
 DOMAIN,ocsp.int-x3.letsencrypt.org
@@ -465,53 +465,53 @@ DOMAIN-SUFFIX,twitter.jp
 # (Region-Restricted Access Denied)
 
 # -->> Others
-DOMAIN-SUFFIX, apartmentratings.com
-DOMAIN-SUFFIX, apartments.com
-DOMAIN-SUFFIX, bankmobilevibe.com
-DOMAIN-SUFFIX, bing.com
-DOMAIN-SUFFIX, booktopia.com.au
-DOMAIN-SUFFIX, cccat.io
-DOMAIN-SUFFIX, centauro.com.br
-DOMAIN-SUFFIX, clearsurance.com
-DOMAIN-SUFFIX, costco.com
-DOMAIN-SUFFIX, crackle.com
-DOMAIN-SUFFIX, depositphotos.cn
-DOMAIN-SUFFIX, dish.com
-DOMAIN-SUFFIX, dmm.co.jp
-DOMAIN-SUFFIX, dmm.com
-DOMAIN-SUFFIX, dnvod.tv
-DOMAIN-SUFFIX, esurance.com
-DOMAIN-SUFFIX, extmatrix.com
-DOMAIN-SUFFIX, fastpic.ru
-DOMAIN-SUFFIX, flipboard.com
-DOMAIN-SUFFIX, fnac.be
-DOMAIN-SUFFIX, fnac.com
-DOMAIN-SUFFIX, funkyimg.com
-DOMAIN-SUFFIX, fxnetworks.com
-DOMAIN-SUFFIX, gettyimages.com
-DOMAIN-SUFFIX, go.com
-DOMAIN-SUFFIX, here.com
-DOMAIN-SUFFIX, jcpenney.com
-DOMAIN-SUFFIX, jiehua.tv
-DOMAIN-SUFFIX, mailfence.com
-DOMAIN-SUFFIX, nationwide.com
-DOMAIN-SUFFIX, nbc.com
-DOMAIN-SUFFIX, nexon.com
-DOMAIN-SUFFIX, nordstrom.com
-DOMAIN-SUFFIX, nordstromimage.com
-DOMAIN-SUFFIX, nordstromrack.com
-DOMAIN-SUFFIX, superpages.com
-DOMAIN-SUFFIX, target.com
-DOMAIN-SUFFIX, thinkgeek.com
-DOMAIN-SUFFIX, tracfone.com
-DOMAIN-SUFFIX, uploader.jp
-DOMAIN-SUFFIX, vevo.com
-DOMAIN-SUFFIX, viu.tv
-DOMAIN-SUFFIX, vk.com
-DOMAIN-SUFFIX, vsco.co
-DOMAIN-SUFFIX, xfinity.com
-DOMAIN-SUFFIX, zattoo.com
-USER-AGENT, Roam*
+DOMAIN-SUFFIX,apartmentratings.com
+DOMAIN-SUFFIX,apartments.com
+DOMAIN-SUFFIX,bankmobilevibe.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,booktopia.com.au
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,centauro.com.br
+DOMAIN-SUFFIX,clearsurance.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,crackle.com
+DOMAIN-SUFFIX,depositphotos.cn
+DOMAIN-SUFFIX,dish.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,esurance.com
+DOMAIN-SUFFIX,extmatrix.com
+DOMAIN-SUFFIX,fastpic.ru
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,fnac.be
+DOMAIN-SUFFIX,fnac.com
+DOMAIN-SUFFIX,funkyimg.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,here.com
+DOMAIN-SUFFIX,jcpenney.com
+DOMAIN-SUFFIX,jiehua.tv
+DOMAIN-SUFFIX,mailfence.com
+DOMAIN-SUFFIX,nationwide.com
+DOMAIN-SUFFIX,nbc.com
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstromimage.com
+DOMAIN-SUFFIX,nordstromrack.com
+DOMAIN-SUFFIX,superpages.com
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,thinkgeek.com
+DOMAIN-SUFFIX,tracfone.com
+DOMAIN-SUFFIX,uploader.jp
+DOMAIN-SUFFIX,vevo.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,zattoo.com
+USER-AGENT,Roam*
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,mangakakalot.com
 DOMAIN-SUFFIX,shopeemobile.com
