@@ -1,8 +1,15 @@
 #https://github.com/787a68/Rules/blob/master/QuantumultX/Filter/Global.txt
 
+# -->>Script
+DOMAIN-SUFFIX,ooxx.be
+DOMAIN-SUFFIX,qxzy.top
+
 # -->> WiKi
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,fastston.org
+DOMAIN-KEYWORD,wiki
 # (DNS Cache Pollution)
 # -->> Facebook
 DOMAIN-SUFFIX, cdninstagram.com
