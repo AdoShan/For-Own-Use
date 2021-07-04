@@ -1,30 +1,30 @@
 # -->> Apple_CDN
 # Apple Music
-DOMAIN, aod.itunes.apple.com
-DOMAIN, api.smoot.apple.cn
-DOMAIN, music.apple.com
-DOMAIN, mvod.itunes.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,music.apple.com
+DOMAIN,mvod.itunes.apple.com
 # -->> App Store
-USER-AGENT, com.apple.appstored*
-DOMAIN-SUFFIX, mzstatic.com
-DOMAIN, iosapps.itunes.apple.com
-DOMAIN, osxapps.itunes.apple.com
+USER-AGENT,com.apple.appstored*
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
 # -->> Update
-DOMAIN, supportdownload.apple.com
-DOMAIN, appldnld.apple.com
-DOMAIN, swcdn.apple.com
-DOMAIN, apptrailers.itunes.apple.com
-DOMAIN, updates-http.cdn-apple.com
+DOMAIN,supportdownload.apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,apptrailers.itunes.apple.com
+DOMAIN,updates-http.cdn-apple.com
 
 # Map导致无法正常切换Tomtom地图,以致于无法正常使用News
 # -->> Map
-#DOMAIN-SUFFIX, ls.apple.com
-#DOMAIN, gs-loc-cn.apple.com
+#DOMAIN-SUFFIX,ls.apple.com
+#DOMAIN,gs-loc-cn.apple.com
 
 # -->> Epic
-DOMAIN-KEYWORD, epicgames-download
-DOMAIN-KEYWORD, download.epicgames.com
+DOMAIN-KEYWORD,epicgames-download
+DOMAIN-KEYWORD,download.epicgames.com
 
 # -->> Office
 # -->> 不确定
-DOMAIN-SUFFIX, microsodtcdn.office.com
+DOMAIN-SUFFIX,microsodtcdn.office.com
